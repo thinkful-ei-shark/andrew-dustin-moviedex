@@ -1,0 +1,1 @@
+Use of this app requires a .env file with an API KEY. 
